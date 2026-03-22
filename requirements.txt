@@ -4,7 +4,7 @@ matplotlib
 tensorflow
 streamlit
 meteostat
-scikit-learn
+sklearn
 
 
 
